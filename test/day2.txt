@@ -1,0 +1,11 @@
+#!/bin/bash
+
+name="kalash"
+
+echo "my name is $name"
+
+read -p "enter user name :" username 
+
+echo "user name is $username"
+
+

@@ -1,0 +1,15 @@
+#!/bin/bash
+
+
+#this my first shell scrpit
+
+echo "hello kalash"
+
+
+hostname=&(hostname)
+
+echo $hostname
+
+list=$(ls)
+
+echo $(list)
